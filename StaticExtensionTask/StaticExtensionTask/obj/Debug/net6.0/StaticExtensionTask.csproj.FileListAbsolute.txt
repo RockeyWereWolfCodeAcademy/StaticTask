@@ -1,0 +1,14 @@
+C:\Users\User\StaticExtensionTask\StaticExtensionTask\obj\Debug\net6.0\StaticExtensionTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\StaticExtensionTask\StaticExtensionTask\obj\Debug\net6.0\StaticExtensionTask.AssemblyInfoInputs.cache
+C:\Users\User\StaticExtensionTask\StaticExtensionTask\obj\Debug\net6.0\StaticExtensionTask.AssemblyInfo.cs
+C:\Users\User\StaticExtensionTask\StaticExtensionTask\obj\Debug\net6.0\StaticExtensionTask.csproj.CoreCompileInputs.cache
+C:\Users\User\StaticExtensionTask\StaticExtensionTask\bin\Debug\net6.0\StaticExtensionTask.exe
+C:\Users\User\StaticExtensionTask\StaticExtensionTask\bin\Debug\net6.0\StaticExtensionTask.deps.json
+C:\Users\User\StaticExtensionTask\StaticExtensionTask\bin\Debug\net6.0\StaticExtensionTask.runtimeconfig.json
+C:\Users\User\StaticExtensionTask\StaticExtensionTask\bin\Debug\net6.0\StaticExtensionTask.dll
+C:\Users\User\StaticExtensionTask\StaticExtensionTask\bin\Debug\net6.0\StaticExtensionTask.pdb
+C:\Users\User\StaticExtensionTask\StaticExtensionTask\obj\Debug\net6.0\StaticExtensionTask.dll
+C:\Users\User\StaticExtensionTask\StaticExtensionTask\obj\Debug\net6.0\refint\StaticExtensionTask.dll
+C:\Users\User\StaticExtensionTask\StaticExtensionTask\obj\Debug\net6.0\StaticExtensionTask.pdb
+C:\Users\User\StaticExtensionTask\StaticExtensionTask\obj\Debug\net6.0\StaticExtensionTask.genruntimeconfig.cache
+C:\Users\User\StaticExtensionTask\StaticExtensionTask\obj\Debug\net6.0\ref\StaticExtensionTask.dll
